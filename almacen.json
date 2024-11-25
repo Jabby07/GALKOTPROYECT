@@ -1,0 +1,190 @@
+{
+  "publicaciones": [
+    {
+      "id": "409e",
+      "idPublicacion": 460144,
+      "nombrePublicacion": "Apoyo navidad",
+      "codigo": "TUKI3750056",
+      "fecha": "2024-11-19T01:29:00",
+      "hora": "2024-11-16T10:30:00",
+      "monto": "278045",
+      "descripcion": "Buscamos al mejor equipo para esta temporada navideña, te esperamos!!!",
+      "qrdata": "409eApoyo navidadTUKI37500562024-11-19T01:29:002024-11-16T10:30:00278045Buscamos al mejor equipo para esta temporada navideña, te esperamos!!!"
+    },
+    {
+      "id": "23c2",
+      "idPublicacion": 82320,
+      "nombrePublicacion": "Apoyo navidad Nov-Dic 2024",
+      "codigo": "TUKI4323648",
+      "fecha": "2024-11-29T01:31:00",
+      "hora": "2024-11-16T10:30:00",
+      "monto": 30000,
+      "descripcion": "Buscamos al mejor equipo para esta temporada navideña, no te quedes atras!!!"
+    },
+    {
+      "id": "ae7c",
+      "idPublicacion": 465966,
+      "nombrePublicacion": "Apoyo navidad Nov-Dic 2024",
+      "codigo": "TUKI4323648",
+      "fecha": "2024-11-29T01:31:00",
+      "hora": "2024-11-16T10:30:00",
+      "monto": 30000,
+      "descripcion": "Buscamos al mejor equipo para esta temporada navideña, no te quedes atras!!!"
+    },
+    {
+      "id": "e9fb",
+      "idPublicacion": 97758,
+      "nombrePublicacion": "Apoyo navidad Nov-Dic 2024",
+      "codigo": "TUKI4323648",
+      "fecha": "2024-11-29T01:31:00",
+      "hora": "2024-11-16T10:30:00",
+      "monto": 30000,
+      "descripcion": "Buscamos al mejor equipo para esta temporada navideña, no te quedes atras!!!"
+    },
+    {
+      "id": "ed89",
+      "idPublicacion": 723804,
+      "nombrePublicacion": "hola mundo",
+      "codigo": "TUKI6570142",
+      "fecha": "2024-11-27T21:26:00",
+      "hora": "2024-11-16T09:45:00",
+      "monto": 23500,
+      "descripcion": "hola mundo!!!!!",
+      "fechaCreacion": "16/11/2024, 9:27:15 p.m."
+    },
+    {
+      "id": "987b",
+      "nombrePublicacion": "hola11233",
+      "codigo": "TUKI9200302",
+      "fecha": "2024-11-30T02:50:00",
+      "hora": "2024-11-21T14:00:00",
+      "monto": 34455,
+      "descripcion": "buienas",
+      "fechaCreacion": "21/11/2024, 2:51:08 a.m."
+    },
+    {
+      "id": "4495",
+      "nombrePublicacion": "PRUEBA DE POSTULACION",
+      "codigo": "TUKI1352775",
+      "fecha": "2024-11-30T16:09:00",
+      "hora": "2024-11-25T15:00:00",
+      "monto": 100000,
+      "descripcion": "PRUEBA ",
+      "fechaCreacion": "25/11/2024, 16:09:29"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "d71c",
+      "username": "Jabiera",
+      "email": "javi@duocuc.cl",
+      "rut": "19.379.119-0",
+      "password": "duoc1234",
+      "isactive": true
+    },
+    {
+      "id": "d3a5",
+      "username": "Jabierassssdsdsds",
+      "email": "jajasdasdaa@duoc.cl",
+      "rut": "19.919.191-9",
+      "password": "duoc1234",
+      "isactive": true,
+      "imagen": "C:\\fakepath\\fotoadad.jpg"
+    },
+    {
+      "id": "b312",
+      "username": "wenaswenas",
+      "email": "jsadj@jdsj.cl",
+      "rut": "81.818.181-8",
+      "password": "duoc1234",
+      "isactive": true
+    },
+    {
+      "id": "db42",
+      "username": "Jabierassssssssd",
+      "email": "asdasdaasd@ddd.cl",
+      "rut": "13.123.131-2",
+      "password": "duoc1234",
+      "isactive": true,
+      "imagen": "C:\\fakepath\\fotoadad.jpg"
+    },
+    {
+      "id": "3d08",
+      "username": "Jabieravidales",
+      "email": "jaj@jsdj.cl",
+      "rut": "18.181.818-8",
+      "password": "duoc1234",
+      "isactive": true,
+      "imagen": "C:\\fakepath\\fotoadad.jpg"
+    },
+    {
+      "id": "0918",
+      "username": "Javieradenisevidalgonzalez",
+      "email": "javieraaa@lol.cl",
+      "rut": "19.379.119-8",
+      "password": "duoc1234",
+      "isactive": true,
+      "imagen": "C:\\fakepath\\fotoadad.jpg"
+    },
+    {
+      "id": "cbb6",
+      "username": "jabyera",
+      "email": "jasd@dkdkkd.cl",
+      "rut": "01.919.199-1",
+      "password": "duoc1234",
+      "isactive": true
+    },
+    {
+      "id": "4ab5",
+      "username": "javiii",
+      "email": "javi@djdj.cl",
+      "rut": "19.191.882-1",
+      "password": "duoc1234",
+      "isactive": true
+    },
+    {
+      "id": "9b14",
+      "username": "javiii3",
+      "email": "jsjda@lll.cl",
+      "rut": "48.484.923-4",
+      "password": "duoc1234",
+      "isactive": true
+    },
+    {
+      "id": "0035",
+      "username": "buenasss",
+      "email": "javi@javi.cl",
+      "rut": "19.379.119-0",
+      "password": "duoc1234",
+      "isactive": true
+    }
+  ],
+  "usuariosPostulantes": [
+    {
+      "id": "31d7",
+      "username": "pepetrueno",
+      "email": "pepe@trueno.cl",
+      "rut": "11.234.567-8",
+      "password": "1234567a",
+      "isactive": true
+    }
+  ],
+  "postulacionesATrabajos": [
+    {
+      "id": "5880",
+      "codigo": "TUKI3750056",
+      "nombrePublicacion": "Apoyo navidad",
+      "descripcion": "Buscamos al mejor equipo para esta temporada navideña, te esperamos!!!",
+      "usuario": "javiii3",
+      "qrdata": "409e-Apoyo navidad-TUKI3750056-2024-11-19T01:29:00-2024-11-16T10:30:00-278045-Buscamos al mejor equipo para esta temporada navideña, te esperamos!!!"
+    },
+    {
+      "id": "3b92",
+      "codigo": "TUKI4323648",
+      "nombrePublicacion": "Apoyo navidad Nov-Dic 2024",
+      "descripcion": "Buscamos al mejor equipo para esta temporada navideña, no te quedes atras!!!",
+      "usuario": "javiii3",
+      "qrdata": "23c2-Apoyo navidad Nov-Dic 2024-TUKI4323648-2024-11-29T01:31:00-2024-11-16T10:30:00-30000-Buscamos al mejor equipo para esta temporada navideña, no te quedes atras!!!"
+    }
+  ]
+}
